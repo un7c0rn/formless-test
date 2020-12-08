@@ -1,1 +1,1 @@
-Example
+Blockchain based copyright sharding
